@@ -54,17 +54,17 @@ DenseNet121 and ResNet101 are both pretrained model from TensorFlow that can be 
 <p align="center">
 <a>
 
-<img  src="src/assets/Densenet_Accuracy.png"  alt="DenseNetAccuracy" height="80">
+<img  src="src/assets/Densenet_Accuracy.png"  alt="DenseNetAccuracy" height="300">
 &nbsp &nbsp &nbsp &nbsp &nbsp
-<img  src="src/assets/Resnet_Accuracy.png"  alt="ResNetAccuracy" height="80">
+<img  src="src/assets/Resnet_Accuracy.png"  alt="ResNetAccuracy" height="300">
 
 </a>
 <br>
 <a>
 
-<img  src="src/assets/Densenet_Loss.png"  alt="DenseNetLoss" height="80">
+<img  src="src/assets/Densenet_Loss.png"  alt="DenseNetLoss" height="300">
 &nbsp &nbsp &nbsp &nbsp &nbsp
-<img  src="src/assets/Resnet_Loss.png"  alt="ResNetLoss" height="80">
+<img  src="src/assets/Resnet_Loss.png"  alt="ResNetLoss" height="300">
 
 </a>
 <p>
