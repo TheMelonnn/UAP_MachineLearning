@@ -67,6 +67,8 @@ DenseNet121 and ResNet101 are both pretrained model from TensorFlow that can be 
 <img  src="src/assets/Resnet_Loss.png"  alt="ResNetLoss" height="300">
 
 </a>
+<br>
+DenseNet121 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ResNet101
 <p>
 <br>
 
