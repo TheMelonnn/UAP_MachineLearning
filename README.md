@@ -92,6 +92,7 @@ The dataset contains 10 classes of tomato leaf diseases and healthy leaves. The 
 The dataset is available on Kaggle and you can download it by clicking <a href="https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf">here<a/>.
 <p/>
 
-## Author
+## Link Model & Author
+Model : <a href="https://drive.google.com/drive/folders/1rreWflGuJ9hBKL-zLI3IBFG-nK9KrITu?usp=sharing"> Click Here<a/> <br>
 M Zidan Rifardi (TheMelonnn)
 
